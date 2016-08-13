@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# OSX
+.DS_Store
+
 # C extensions
 *.so
 
@@ -87,3 +90,12 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Eclipse
+.project
+.pydevproject
+/.settings
+
+# Jupyter/iPython
+**-checkpoint.ipynb
+**/.ipynb_checkpoints/**
