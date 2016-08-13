@@ -110,7 +110,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <notations>
-          <slur number="1" placement="above" type="start"/>
+          <slur number="2" placement="above" type="start"/>
         </notations>
       </note>
       <note>
@@ -122,7 +122,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <notations>
-          <slur number="1" type="stop"/>
+          <slur number="2" type="stop"/>
         </notations>
       </note>
       <barline location="right">
