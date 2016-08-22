@@ -4,7 +4,8 @@ MusicXML Test Suite (Unofficial)
 This is a fork of Reinhold Kainhofer's extensive MusicXML test suite 
 developed for testing Lilypond's `musicxml2ly` program.  Since it is
 useful for lots of music projects that want to support MusicXML
-(such as the `music21` project), I've forked it here and invite
+(such as the `music21` project), I've forked it here with Reinhold 
+Kainhofer's blessing and invite
 contributions of new tests for the future.
 
 Copyright (c) 2010–2016, Reinhold Kainhofer and the GNU Lilypond
