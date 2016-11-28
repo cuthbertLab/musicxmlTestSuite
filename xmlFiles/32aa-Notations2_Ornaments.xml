@@ -2,11 +2,11 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN"
                                 "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="2.0">
-  <movement-title>MusicXML notations (attached to note)</movement-title>
+  <movement-title>MusicXML ornaments (attached to note)</movement-title>
   <identification>
     <miscellaneous>
-      <miscellaneous-field name="description">All &lt;notation&gt; elements 
-          defined in MusicXML. The lyrics show the notation assigned to each 
+      <miscellaneous-field name="description">All &lt;ornament&gt; elements 
+          defined in MusicXML. The lyrics show the ornament assigned to each 
           note.</miscellaneous-field>
     </miscellaneous>
   </identification>
@@ -109,7 +109,7 @@
         <type>quarter</type>
         <notations>
           <ornaments>
-            <wavy-line placement="below" type="start"/>
+            <wavy-line number="1" placement="below" type="start"/>
           </ornaments>
         </notations>
         <lyric number="1"><syllabic>begin</syllabic><text>wavy</text></lyric>
@@ -123,8 +123,8 @@
         <type>quarter</type>
         <notations>
           <ornaments>
-            <wavy-line placement="below" type="stop"/>
-            <wavy-line placement="below" type="start"/>
+            <wavy-line number="1" placement="below" type="stop"/>
+            <wavy-line number="2" placement="below" type="start"/>
           </ornaments>
         </notations>
         <lyric number="1"><syllabic>middle</syllabic><text>wavy</text></lyric>
@@ -138,7 +138,7 @@
         <type>quarter</type>
         <notations>
           <ornaments>
-            <wavy-line placement="below" type="stop"/>
+            <wavy-line number="2" placement="below" type="stop"/>
           </ornaments>
         </notations>
         <lyric number="1"><syllabic>end</syllabic><text>line</text></lyric>
