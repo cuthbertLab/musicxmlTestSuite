@@ -13,11 +13,7 @@
   </identification>
   <part-list>
     <score-part id="P1">
-      <part-name>Violin</part-name>
-      <part-abbreviation>Vln.</part-abbreviation>
-      <score-instrument id="P1-I1">
-        <instrument-name>Violin</instrument-name>
-      </score-instrument>
+      <part-name></part-name>
     </score-part>
   </part-list>
   <part id="P1">
