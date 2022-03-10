@@ -41,7 +41,6 @@
         <voice>1</voice>
         <type>quarter</type>
         <accidental>flat-up</accidental>
-        <stem>up</stem>
       </note>
       <note>
         <pitch>
@@ -52,7 +51,6 @@
         <voice>1</voice>
         <type>quarter</type>
         <accidental>flat-down</accidental>
-        <stem>up</stem>
       </note>
     </measure>
     <measure number="2">
@@ -65,7 +63,6 @@
         <voice>1</voice>
         <type>quarter</type>
         <accidental>natural-up</accidental>
-        <stem>up</stem>
       </note>
       <note>
         <pitch>
@@ -76,7 +73,6 @@
         <voice>1</voice>
         <type>quarter</type>
         <accidental>natural-down</accidental>
-        <stem>up</stem>
       </note>
     </measure>
     <measure number="3">
@@ -89,7 +85,6 @@
         <voice>1</voice>
         <type>quarter</type>
         <accidental>sharp-up</accidental>
-        <stem>up</stem>
       </note>
       <note>
         <pitch>
@@ -100,7 +95,6 @@
         <voice>1</voice>
         <type>quarter</type>
         <accidental>sharp-down</accidental>
-        <stem>up</stem>
       </note>
     </measure>
     <measure number="4">
@@ -113,7 +107,6 @@
         <voice>1</voice>
         <type>quarter</type>
         <accidental>double-sharp-up</accidental>
-        <stem>up</stem>
       </note>
       <note>
         <pitch>
@@ -124,7 +117,6 @@
         <voice>1</voice>
         <type>quarter</type>
         <accidental>double-sharp-down</accidental>
-        <stem>up</stem>
       </note>
     </measure>
     <measure number="5">
@@ -137,7 +129,6 @@
         <voice>1</voice>
         <type>quarter</type>
         <accidental>flat-flat-up</accidental>
-        <stem>up</stem>
       </note>
       <note>
         <pitch>
@@ -148,7 +139,6 @@
         <voice>1</voice>
         <type>quarter</type>
         <accidental>flat-flat-down</accidental>
-        <stem>up</stem>
       </note>
     </measure>
     <measure number="6">
@@ -161,7 +151,6 @@
         <voice>1</voice>
         <type>quarter</type>
         <accidental>arrow-up</accidental>
-        <stem>up</stem>
       </note>
       <note>
         <pitch>
@@ -172,7 +161,6 @@
         <voice>1</voice>
         <type>quarter</type>
         <accidental>arrow-down</accidental>
-        <stem>up</stem>
       </note>
     </measure>
   </part>
