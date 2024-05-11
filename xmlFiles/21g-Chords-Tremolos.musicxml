@@ -215,7 +215,7 @@
         <type>quarter</type>
         <notations>
           <ornaments>
-            <tremolo type="unmeasured"></tremolo>
+            <tremolo type="unmeasured">0</tremolo>
           </ornaments>
         </notations>
       </note>
