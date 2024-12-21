@@ -172,7 +172,8 @@
             accent | strong-accent | staccato | tenuto |
             detached-legato | staccatissimo | spiccato |
             scoop | plop | doit | falloff | breath-mark |
-            caesura | stress | unstress | soft-accent -->
+            caesura | stress | unstress | soft-accent | 
+            other-articulation -->
     <measure number="3">
       <note>
         <pitch>
