@@ -10,6 +10,6 @@ contributions of new tests for the future.
 
 Thanks to Reinhold Kainhofer for giving his blessing to this project.
 
-Copyright (c) 2010–2016, Reinhold Kainhofer and the GNU Lilypond
+Originally Copyright (c) 2010–2016, Reinhold Kainhofer and the GNU Lilypond
 project.  Licensed under the MIT License, see LICENSE for more details.
 Free for any use as long as this license remains intact.
