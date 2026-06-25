@@ -24,6 +24,7 @@
           <fifths>0</fifths>
           <mode>major</mode>
         </key>
+        <!-- known incorrect usage. This is being tested -->
         <time symbol="cut">
           <beats>3</beats>
           <beat-type>8</beat-type>
@@ -47,6 +48,7 @@
     <!--=========================================================-->
     <measure number="2">
       <attributes>
+        <!-- known incorrect usage. This is being tested -->
         <time symbol="single-number">
           <beats>3+2</beats>
           <beat-type>8</beat-type>
@@ -74,6 +76,7 @@
     <!--=========================================================-->
     <measure number="3">
       <attributes>
+        <!-- known incorrect usage. This is being tested -->
         <time symbol="single-number">
           <beats>1</beats>
           <beat-type>8</beat-type>
