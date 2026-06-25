@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <identification>
+    <miscellaneous>
+      <miscellaneous-field name="description">All Harmon mute elements defined in MusicXML.</miscellaneous-field>
+    </miscellaneous>
+  </identification>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Trombone</part-name>
+      <part-abbreviation>Tbn.</part-abbreviation>
+    </score-part>
+  </part-list>
+  <!--=========================================================-->
+  <part id="P1">
+    <measure number="1">
+      <attributes>
+        <divisions>1</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <technical>
+            <harmon-mute>
+              <harmon-closed>yes</harmon-closed>
+            </harmon-mute>
+          </technical>
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <technical>
+            <harmon-mute>
+              <harmon-closed>no</harmon-closed>
+            </harmon-mute>
+          </technical>
+        </notations>
+      </note>
+    </measure>
+    <measure number="2">
+    <note>
+      <pitch>
+        <step>C</step>
+        <octave>3</octave>
+      </pitch>
+      <duration>2</duration>
+      <voice>1</voice>
+      <type>half</type>
+      <stem>up</stem>
+      <notations>
+        <technical>
+          <harmon-mute>
+            <harmon-closed location="bottom">half</harmon-closed>
+          </harmon-mute>
+        </technical>
+      </notations>
+    </note>
+    <note>
+      <pitch>
+        <step>C</step>
+        <octave>3</octave>
+      </pitch>
+      <duration>2</duration>
+      <voice>1</voice>
+      <type>half</type>
+      <stem>up</stem>
+      <notations>
+        <technical>
+          <harmon-mute>
+            <harmon-closed location="left">half</harmon-closed>
+          </harmon-mute>
+        </technical>
+      </notations>
+    </note>
+    <measure number="3">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <technical>
+            <harmon-mute>
+              <harmon-closed location="right">half</harmon-closed>
+            </harmon-mute>
+          </technical>
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <technical>
+            <harmon-mute>
+              <harmon-closed location="top">half</harmon-closed>
+            </harmon-mute>
+          </technical>
+        </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+</score-partwise>
